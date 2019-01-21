@@ -1,0 +1,39 @@
+{
+  "foods": [
+    {
+      "id": 1,
+      "name": "lasagna",
+      "category": "Pasta",
+      "ethnicity": "Italian",
+      "barcode": "0011110111432"
+    },
+    {
+      "id": 2,
+      "name": "Chana Saag",
+      "category": "Curries",
+      "ethnicity": "Indian",
+      "barcode": "0857063002157"
+    },
+    {
+      "id": 3,
+      "name": "Veggie Burger",
+      "category": "Sandwiches",
+      "ethnicity": "American",
+      "barcode": "0080868000107"
+    },
+    {
+      "name": "HotDog",
+      "category": "Tubular Meat",
+      "ethnicity": "American",
+      "id": 5,
+      "barcode": "0011161465546"
+    },
+    {
+      "name": "Ramen",
+      "category": "Soup",
+      "ethnicity": "Japanese",
+      "barcode": "0041789001154",
+      "id": 7
+    }
+  ]
+}

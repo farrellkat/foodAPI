@@ -1,0 +1,24 @@
+.foodList {
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.food__items {
+    flex-basis:18%;
+    border: 1px solid red;
+    text-align: center;
+    padding: 5px;
+}
+
+.descriptions {
+    text-align: left;
+}
+
+.fat,
+.sugar,
+.country,
+.calories {
+    text-align: center;
+}
