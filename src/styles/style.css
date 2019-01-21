@@ -19,6 +19,8 @@
 .fat,
 .sugar,
 .country,
-.calories {
+.calories,
+.ethnicity,
+.category {
     text-align: center;
 }
