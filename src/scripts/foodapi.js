@@ -52,7 +52,9 @@ fetch("http://localhost:8088/foods")
         return `
                 <div class="food__items">
                 <h3>${food.name}</h3>
+                <h4>Ethnicity</h4>
                 <div class="descriptions ethnicity">${food.ethnicity}</div>
+                <h4>Category</h4>
                 <div class="descriptions category">${food.category}</div>
                 <h4>Ingredients</h4>
                 <div class="descriptions ingredients">${food.ingredients}</div>
